@@ -6,7 +6,7 @@ export const Layout: FCC = ({ children }) => {
   return (
     <>
       <Head>
-        <span></span>
+        <title>Hola</title>
       </Head>
 
       <nav>
